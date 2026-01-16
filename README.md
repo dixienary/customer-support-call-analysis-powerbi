@@ -46,3 +46,13 @@ The goal is to help stakeholders identify performance gaps, optimize staffing, a
 
 ### Business Insight:
 A high missed call rate negatively impacts customer satisfaction and retention.
+
+## Agent Performance Analysis
+- Compares agents based on performance metrics such as:
+-- Customer ratings
+-- Call handling efficiency
+-Identifies top-performing agents and opportunities for coaching.
+
+## Call Volume & Complaint Analysis
+- Categorizes calls by issue type (e.g., Technical Support, Billing, Account Setup).
+- Helps understand most frequent customer problems and prioritize process improvements.
