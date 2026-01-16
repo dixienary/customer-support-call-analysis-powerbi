@@ -56,3 +56,8 @@ A high missed call rate negatively impacts customer satisfaction and retention.
 ## Call Volume & Complaint Analysis
 - Categorizes calls by issue type (e.g., Technical Support, Billing, Account Setup).
 - Helps understand most frequent customer problems and prioritize process improvements.
+
+## Customer Satisfaction Analysis
+- Shows the distribution of customer ratings (1–5).
+- Enables tracking of service quality trends over time.
+- Identifies areas impacting low satisfaction scores.
