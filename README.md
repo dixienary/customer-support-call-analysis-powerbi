@@ -19,3 +19,12 @@ The goal is to help stakeholders identify performance gaps, optimize staffing, a
 
 ### Business Insight:
 - High AHT combined with low customer ratings may indicate process or training issues.
+
+## Average Customer Rating
+
+- Represents the average satisfaction score given by customers after a call.
+- Used to evaluate service quality and customer experience.
+- Ratings range from 1 (very dissatisfied) to 5 (very satisfied).
+
+### Business Insight:
+- Agent performance and issue resolution quality directly impact customer ratings.
