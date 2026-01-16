@@ -61,3 +61,14 @@ A high missed call rate negatively impacts customer satisfaction and retention.
 - Shows the distribution of customer ratings (1–5).
 - Enables tracking of service quality trends over time.
 - Identifies areas impacting low satisfaction scores.
+
+# Key Insights from the Dashboard
+- Nearly half of calls are missed, indicating potential staffing or scheduling challenges.
+- Technical Support and Billing Issues are the most common complaint types.
+- Higher-performing agents consistently receive better customer ratings.
+- Customer satisfaction can be improved by reducing missed calls and optimizing AHT.
+
+# Tools & Technologies
+- Power BI Desktop
+- Excel (Data Source)
+- DAX (Measures & KPIs)
