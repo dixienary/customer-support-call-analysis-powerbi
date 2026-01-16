@@ -49,8 +49,8 @@ A high missed call rate negatively impacts customer satisfaction and retention.
 
 ## Agent Performance Analysis
 - Compares agents based on performance metrics such as:
--- Customer ratings
--- Call handling efficiency
+  - Customer ratings
+  - Call handling efficiency
 -Identifies top-performing agents and opportunities for coaching.
 
 ## Call Volume & Complaint Analysis
